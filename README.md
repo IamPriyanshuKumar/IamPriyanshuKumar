@@ -5,3 +5,17 @@ I'm a CSE (AI/ML) student passionate about building software, solving problems, 
 🌱 Currently learning **MERN Stack, Java, DSA, and AI/ML**  
 💻 Interested in **Full Stack Development & Artificial Intelligence**  
 🚀 Building projects to strengthen my development and problem-solving skills
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Java, Python, JavaScript
+
+**Frontend:** HTML, CSS, React
+
+**Backend:** Node.js
+
+**AI/ML:** Machine Learning, Pandas, NumPy, Scikit-learn
+
+**Database:** MySQL, MongoDB
+
+**Tools:** Git, GitHub, VS Code
