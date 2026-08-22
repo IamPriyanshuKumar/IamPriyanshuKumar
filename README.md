@@ -16,6 +16,6 @@ I'm a CSE (AI/ML) student passionate about building software, solving problems, 
 
 **AI/ML:** Machine Learning, Pandas, NumPy, Scikit-learn
 
-**Database:** MySQL, MongoDB
+**Database:** MySQL
 
 **Tools:** Git, GitHub, VS Code
