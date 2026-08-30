@@ -23,4 +23,4 @@ I'm a CSE (AI/ML) student passionate about building software, solving problems, 
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/priyanshu-kumar-aiml)
-- 🧩 [LeetCode](https://leetcode.com/u/IamPriyanshuKumar/)
+
