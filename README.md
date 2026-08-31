@@ -6,6 +6,8 @@ I'm a CSE (AI/ML) student passionate about building software, solving problems, 
 💻 Interested in **Full Stack Development & Artificial Intelligence**  
 🚀 Building projects to strengthen my development and problem-solving skills
 
+🌐 **Portfolio:** [Priyanshu Kumar](https://iampriyanshukumar.github.io/portfolio/)
+
 ## 🛠️ Technologies & Tools
 
 **Languages:** Java, Python, JavaScript
